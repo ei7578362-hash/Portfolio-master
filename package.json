@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://ei7578362-hash.github.io/Portfolio-master",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
